@@ -1,3 +1,12 @@
+---
+title: Shl_agent
+emoji: 🤖
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
 # SHL Conversational Assessment Recommender
 
 A FastAPI-based conversational agent built for the SHL AI Intern take-home assignment. The system helps recruiters and hiring managers discover relevant SHL assessments through multi-turn conversations using grounded catalog-based retrieval. The agent supports clarification, recommendation, refinement, comparison, and off-topic refusal while maintaining a fully stateless architecture.
