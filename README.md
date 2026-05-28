@@ -21,6 +21,14 @@ A FastAPI-based conversational agent built for the SHL AI Intern take-home assig
 - Uses only official SHL catalog URLs
 - Stateless API design using full conversation history
 
+## API Endpoints
+
+### Health Check
+https://aiwithlove2k2-shl-agent.hf.space/health
+
+### Swagger Docs
+https://aiwithlove2k2-shl-agent.hf.space/docs
+
 ## Tech Stack
 
 - Python
