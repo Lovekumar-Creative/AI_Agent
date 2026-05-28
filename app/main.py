@@ -35,6 +35,25 @@ def health():
     }
 
 # --------------------------------
+# Root Endpoint
+# --------------------------------
+@app.get("/")
+def root():
+
+    return {
+        "status": "ok",
+        "message": (
+            "SHL Assessment Recommendation API "
+            "is running successfully"
+        ),
+        "available_endpoints": [
+            "/health",
+            "/chat",
+            "/docs"
+        ]
+    }
+
+# --------------------------------
 # Greeting Detection
 # --------------------------------
 def is_greeting(text):
