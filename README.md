@@ -26,15 +26,16 @@ https://aiwithlove2k2-shl-agent.hf.space/health
 
 ## ✨ Features
 
-✅ Conversational SHL assessment recommendation system
-✅ Multi-turn recruiter interaction support
-✅ Clarification handling for vague hiring queries
-✅ Assessment comparison support
-✅ Off-topic refusal handling
-✅ Catalog-grounded recommendations only
-✅ Stateless FastAPI architecture
-✅ Clean REST API design
-✅ Docker deployment support
+* ✅ Conversational SHL assessment recommendation system
+* ✅ Multi-turn recruiter interaction support
+* ✅ Clarification handling for vague hiring queries
+* ✅ Assessment comparison support
+* ✅ Off-topic refusal handling
+* ✅ Catalog-grounded recommendations only
+* ✅ Stateless FastAPI architecture
+* ✅ Clean REST API design
+* ✅ Docker deployment support
+
 
 ---
 
